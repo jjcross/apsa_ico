@@ -1,0 +1,7 @@
+.vs
+node_modules
+packages
+keys.env
+.idea
+package-lock.json
+*.swp
